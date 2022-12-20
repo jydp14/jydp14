@@ -1,4 +1,4 @@
-- <h1>👋 Hi, I’m Jaydeep <h1>
+ <h1><center>👋 Hi, I’m Jaydeep <center> <h1>
 - 👀 I’m interested in frontend web development
 - 🌱 I’m currently learning DS & Algo
 
